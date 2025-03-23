@@ -1,6 +1,6 @@
 ## SR Robot Framework 
 
-I'm quite interested learning this robot due to community support for automation library.There is tons of topics that i can do for my daily task and it easier also for me to maintain it by using keyword.
+I'm quite interested learning this robot due to community support for automation library.There is tons of lib that i can do for my daily task and it easier also for me to maintain since it using keyword.
 
 ### What I learn so far:
 
@@ -19,14 +19,12 @@ I'm quite interested learning this robot due to community support for automation
 - [ ] API Testing
 - [ ] Database Testing
 - [x] Web Testing 
-- [ ] Mobile Testing
+- [ ] Appium
 - [ ] Desktop Application Testing
-- [ ] Continuous Integration (CI/CD)
+- [ ] Continuous Integration (CI/CD) Github Action / Gitlab
 - [ ] Custom Report Generation
 - [ ] Keyword-Driven Testing
-- [ ] Test Suite Organization
 - [ ] Error Handling and Recovery
-- [ ] Performance Testing
 - [ ] Environment-Specific Configurations
 - [ ] Advanced Variable Usage
 - [ ] Tagging and Filtering
